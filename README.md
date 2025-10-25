@@ -20,7 +20,7 @@ VOLCANO PLOT NOTE
 
  `volcano_plot.html` is large (~500 KB) due to interactivity  
  
- GitHub shows "View raw" — this iscnormal
+GitHub shows "View raw" — this is normal
 
 Best way: Run dashboard → Full interactivity  
 
