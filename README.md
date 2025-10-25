@@ -35,10 +35,12 @@ Figure 2 DEG Table
 
 Figure 3 Heatmap
 <img width="923" height="443" alt="image" src="https://github.com/user-attachments/assets/a0ca1619-9f51-4204-8d76-b9cb4ffc0a39" />
-<img width="923" height="443" alt="image" src="https://github.com/user-attachments/assets/94fd16a7-dd10-4382-9f2e-c947aca16b6b" />
 <img width="928" height="452" alt="image" src="https://github.com/user-attachments/assets/6def3541-b44f-47df-8fd3-f026437e0e6b" />
-<img width="932" height="437" alt="image" src="https://github.com/user-attachments/assets/ae248e62-3ee1-4185-b618-52d44c7268da" />
+<img width="938" height="448" alt="image" src="https://github.com/user-attachments/assets/d37379b9-0831-4043-8522-e8b89d170953" />
 
 AUTHOR
 Zainab Arooj
 Biotechnologist | Data Science | Python Developer | Bioinformatics
+First Data Science Project — Built with passion for cancer research
+
+MIT License © 2025 Zainab Arooj
