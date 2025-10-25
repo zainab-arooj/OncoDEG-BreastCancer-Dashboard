@@ -2,9 +2,9 @@ OncoDEG: Interactive Breast Cancer DEG Dashboard (GSE45827)
 
 48 Significant DEGs | 141 Samples | Python + Dash + Plotly
 
-1. [Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
-2. [Dash](https://img.shields.io/badge/Dash-Interactive_Apps-orange)](https://dash.plotly.com)
-3. [Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-yellowgreen)](https://plotly.com)
+![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
+[![Dash](https://img.shields.io/badge/Dash-Interactive_Apps-orange)](https://dash.plotly.com)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-yellowgreen)](https://plotly.com)
 
 PROJECT OVERVIEW
 
@@ -15,6 +15,14 @@ Why This Matters for Researchers & Scientists:
 2. Enables hypothesis generation with interactive volcano plots and heatmaps
 3. Supports precision oncology by highlighting subtype specific expression (LumA, HER2, TN, etc.)
 4. Reproducible & open-source, ideal for collaboration and publication
+
+VOLCANO PLOT NOTE
+
+ `volcano_plot.html` is large (~500 KB) due to interactivity  
+ 
+ GitHub shows "View raw" — this iscnormal
+
+Best way: Run dashboard → Full interactivity  
 
 HOW TO RUN (STEP-BY-STEP)
 
