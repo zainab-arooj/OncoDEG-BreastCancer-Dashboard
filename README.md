@@ -7,6 +7,7 @@ OncoDEG: Interactive Breast Cancer DEG Dashboard (GSE45827)
 3. [Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-yellowgreen)](https://plotly.com)
 
 PROJECT OVERVIEW
+
 OncoDEG is an interactive bioinformatics dashboard for exploring differentially expressed genes (DEGs) in breast cancer vs normal tissue using GEO dataset GSE45827.
 
 Why This Matters for Researchers & Scientists:
@@ -40,8 +41,11 @@ Figure 3 Heatmap
 <img width="938" height="448" alt="image" src="https://github.com/user-attachments/assets/d37379b9-0831-4043-8522-e8b89d170953" />
 
 AUTHOR
+
 Zainab Arooj
+
 Biotechnologist | Data Science | Python Developer | Bioinformatics
+
 First Data Science Project — Built with passion for cancer research
 
 MIT License © 2025 Zainab Arooj
