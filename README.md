@@ -1,18 +1,19 @@
 OncoDEG: Interactive Breast Cancer DEG Dashboard (GSE45827)
+
 48 Significant DEGs | 141 Samples | Python + Dash + Plotly
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
-[![Dash](https://img.shields.io/badge/Dash-Interactive_Apps-orange)](https://dash.plotly.com)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-yellowgreen)](https://plotly.com)
+1. [Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
+2. [Dash](https://img.shields.io/badge/Dash-Interactive_Apps-orange)](https://dash.plotly.com)
+3. [Plotly](https://img.shields.io/badge/Plotly-Interactive_Plots-yellowgreen)](https://plotly.com)
 
 PROJECT OVERVIEW
 OncoDEG is an interactive bioinformatics dashboard for exploring differentially expressed genes (DEGs) in breast cancer vs normal tissue using GEO dataset GSE45827.
 
 Why This Matters for Researchers & Scientists:
-Accelerates biomarker discovery by visualizing 48 significant DEGs
-Enables hypothesis generation with interactive volcano plots and heatmaps
-Supports precision oncology by highlighting subtype specific expression (LumA, HER2, TN, etc.)
-Reproducible & open-source, ideal for collaboration and publication
+1. Accelerates biomarker discovery by visualizing 48 significant DEGs
+2. Enables hypothesis generation with interactive volcano plots and heatmaps
+3. Supports precision oncology by highlighting subtype specific expression (LumA, HER2, TN, etc.)
+4. Reproducible & open-source, ideal for collaboration and publication
 
 HOW TO RUN (STEP-BY-STEP)
 
